@@ -15,7 +15,7 @@ let lkr = `╭───❮ *𝙱𝙾𝚃 𝙼𝙴𝙽𝚄* ❯
 │ _${usedPrefix}script_
 │ _${usedPrefix}runtime_
 │ _${usedPrefix}infobot_
-│ _${usedPrefix}donate_
+│ _${usedPrefix}support_
 │ _${usedPrefix}groups_
 │ _${usedPrefix}blocklist_
 │ _${usedPrefix}listprem_
