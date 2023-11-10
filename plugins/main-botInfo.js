@@ -56,15 +56,15 @@ let infobt = `
 ▢ *${chats.length}* Total Chats
 
 *≡ OWNER*
-  *ABHISHEK SURESH*
+  *BLACK*
 ▢ Instagram :
-  • https://instagram.com/abhishek_ser
+  • https://instagram.com/hamidhussain_56
 ▢ GitHub :
-  • https://github.com/AbhishekSuresh2
+  • https://github.com/hamidanoo/BLACK-56
 ▢ Telegram : 
-  • https://t.me/Abhishek_Ser  
+  • https://t.me/hamidhussain_56 
 ▢ YouTube : 
-  • https://youtube.com/@comedymelodych8468
+  • https://youtube.com/@hamidhussain_56?si=8WIqtHylB8qX5m3M
 
  *≡ S E R V E R*
 *🛑 RAM:* ${format(totalmem() - freemem())} / ${format(totalmem())}
